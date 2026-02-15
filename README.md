@@ -100,7 +100,11 @@ See the LICENSE file for details.
 
 ---
 
-## Author
+## 👥 Authors
 
-Developed by Soheil Ahmadi  
+Developed collaboratively by:
+
+- Soheil Ahmadi
+- Omid Menbari
+
 Open-source project for educational and development purposes.
